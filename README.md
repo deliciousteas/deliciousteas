@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yoo,I'm Deng 👋
 
 <!--
 **deliciousteas/deliciousteas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://api.spencerwoo.com/substats/?source=bilibili&queryKey=396433632
+https://api.swo.moe/stats/bilibili/396433632
 -->
+
+* 🎓 **Master at** [Shenzhen University](https://www.szu.edu.cn/),9/2022 - Present. Complex network,Data visualization and analysis.
+* ⚡ Python/java/Html/Css/JavaScript.
+* 🎞️ Social Media：[BiliBili](https://space.bilibili.com/396433632)
+* 📫 Email me at : deliciousenter@gmail.com
